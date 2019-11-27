@@ -65,5 +65,5 @@ new_deck.shuffle()
 print(new_deck)
 hand = Hand(new_deck)
 print(hand)
-
+ 
 
